@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pydantic
-pymongo
-python-multipart
-pytest
-httpx
